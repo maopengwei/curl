@@ -1,0 +1,17 @@
+{
+    "name": "maopengwei/curl",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Maopengwei\\Curl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maopengwei",
+            "email": "17513109798@163.com"
+        }
+    ],
+    "require": {}
+}
